@@ -1,0 +1,17 @@
+{
+  "name": "serverside",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
